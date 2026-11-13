@@ -61,7 +61,7 @@
 
         const number = phoneLink
         ? phoneLink.href.replace('tel:', '')
-        : '+1-855-366-1330';
+        : '+1-888-902-5991';
 
         const newModal = document.createElement('div');
         newModal.className = 'modal fade modal-stack';
